@@ -1,0 +1,15 @@
+{
+  "name": "TemperatureConverter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build-win": "electron-builder --win"
+  },
+  "author": "VadikCherepanov",
+  "license": "ISC",
+  "dependencies": {
+
+  }
+}
